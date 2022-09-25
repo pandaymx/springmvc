@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc_01" />
         <module name="springmvc_02_beanload" />
+        <module name="springmvc_03_request" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
